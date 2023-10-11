@@ -29,7 +29,7 @@
 
 ##
 <div align="center">
-  <h3>Minhas contribuições</h3>
+  <h3>Minhas contribuições:</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CarlosDPRizo/CarlosDPRizo/output/github-contribution-grid-snake.svg" />
 </div>
 
