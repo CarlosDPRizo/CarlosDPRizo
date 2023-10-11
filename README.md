@@ -1,6 +1,7 @@
-### <h1>Hello there</h1>
-
-<div><br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+There;" />
+</h1>
+<div align="center">
   <div>
     <h3>Tecnologias:</h3>
   </div>
@@ -21,13 +22,19 @@
 </div>
   
   ##
-<div>
+<div align="center">
   <h3>Apendendo:</h3>
   <img align="center" alt="Go" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
 </div>
   
   ##
-<div> 
+<h2 align="center">Status:</h2>
+<div align=center>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=CarlosDPRizo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <img width=415 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10&locale=pt_BR" alt="streak stats"/>
+</div>
+
+  ##
+<div align="center"> 
   <a href="https://www.linkedin.com/in/carlos-rizo-7959ba217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
