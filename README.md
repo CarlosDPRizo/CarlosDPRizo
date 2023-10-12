@@ -23,7 +23,7 @@
   
   ##
 <div align="center">
-  <h3>Apendendo:</h3>
+  <h3>Aprendendo:</h3>
   <img align="center" alt="Go" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
 </div>
 
