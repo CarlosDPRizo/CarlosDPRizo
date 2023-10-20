@@ -3,7 +3,7 @@
 </h1>
 <div align="center">
   <div>
-    <h3>Tecnologias:</h3>
+    <h3>Skills:</h3>
   </div>
   <div style="display: inline_block">
     <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -23,7 +23,7 @@
   
   ##
 <div align="center">
-  <h3>Aprendendo:</h3>
+  <h3>Learning:</h3>
   <img align="center" alt="Go" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
@@ -31,7 +31,7 @@
 
 ##
 <div align="center">
-  <h3>Minhas contribuições:</h3>
+  <h3>Contributions:</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CarlosDPRizo/CarlosDPRizo/output/github-contribution-grid-snake.svg" />
 </div>
 
@@ -39,7 +39,7 @@
 <h3 align="center">Status:</h3>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=CarlosDPRizo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <img width=415 src="https://streak-stats.demolab.com/?user=CarlosDPRizo&count_private=true&theme=react&border_radius=10&locale=pt_BR" alt="streak stats"/>
+  <img width=415 src="https://streak-stats.demolab.com/?user=CarlosDPRizo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
   ##
