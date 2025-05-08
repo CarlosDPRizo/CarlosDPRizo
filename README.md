@@ -45,7 +45,7 @@
 
 <h3 align="center">Status:</h3>
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
   ##
 <div align="center"> 
